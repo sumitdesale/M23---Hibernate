@@ -1,4 +1,4 @@
-package com.cg.dao;
+ package com.cg.dao;
 
 import javax.persistence.EntityManager;
 
